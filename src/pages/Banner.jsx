@@ -1,3 +1,5 @@
+import heroImg from "../assets/hero.png";
+
 const Banner = () => {
   return (
     <section className="pt-16 pb-0 px-4 flex flex-col items-center text-center bg-white">
@@ -40,7 +42,7 @@ const Banner = () => {
       {/* {mobile image from assets} */}
       <div className="relative max-w-[600px] w-full mx-auto mt-4 px-4">
         <img
-          src="./src/assets/hero.png"
+          src={heroImg}
           alt="Productive App Mockup"
           className="w-full h-auto drop-shadow-2xl"
         />
