@@ -46,7 +46,7 @@ const AllApps = () => {
             </div>
             <input
               type="text"
-              className="block w-full pl-10 pr-3 py-2.5 border border-gray-200 rounded-lg text-sm bg-white focus:outline-none focus:ring-1 focus:ring-[#8B5CF6] focus:border-[#8B5CF6] transition-colors"
+              className="block w-full pl-10 pr-3 py-2.5 border border-gray-200 rounded-lg text-sm bg-white focus:outline-none focus:ring-1 focus:ring-[#8B5CF6] focus:border-[#8B5CF6] transition-colors text-black"
               placeholder="Search Apps"
               value={searchTerm}
               onChange={(e) => setSearchTerm(e.target.value)}

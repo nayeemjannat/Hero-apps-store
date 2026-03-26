@@ -3,360 +3,660 @@
     "id": 1,
     "title": "Forest: Focus For Productivity",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/8Lz7r0R/forest.png",
+    "image": "https://img.icons8.com/fluency/256/forest.png",
     "description": "Stay focused and plant beautiful trees while you work. A gamified approach to beating phone addiction.",
     "size": 45,
     "reviews": 120500,
     "ratingAvg": 4.8,
     "downloads": 9000000,
     "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 2000 },
-      { "name": "4 star", "count": 12000 },
-      { "name": "5 star", "count": 105000 }
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 2000
+      },
+      {
+        "name": "4 star",
+        "count": 12000
+      },
+      {
+        "name": "5 star",
+        "count": 105000
+      }
     ]
   },
   {
     "id": 2,
     "title": "SmPlan: ToDo List With Reminder",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/m5S8Wq7/smplan.png",
+    "image": "https://img.icons8.com/fluency/256/todo-list.png",
     "description": "The simplest way to manage your daily tasks and never miss a deadline again.",
     "size": 12,
     "reviews": 85000,
     "ratingAvg": 4.5,
     "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 20000 },
-      { "name": "5 star", "count": 56500 }
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 56500
+      }
     ]
   },
   {
     "id": 3,
     "title": "FLIP - Focus Timer For Study",
     "companyName": "Herojo Studio",
-    "image": "https://i.ibb.co.com/VvW3D2D/flip.png",
+    "image": "https://img.icons8.com/fluency/256/timer.png",
     "description": "Measure your focus level by flipping your phone. Perfect for students and deep work.",
     "size": 28,
     "reviews": 45000,
     "ratingAvg": 4.2,
     "downloads": 3000000,
     "ratings": [
-      { "name": "1 star", "count": 1500 },
-      { "name": "2 star", "count": 2500 },
-      { "name": "3 star", "count": 6000 },
-      { "name": "4 star", "count": 10000 },
-      { "name": "5 star", "count": 25000 }
+      {
+        "name": "1 star",
+        "count": 1500
+      },
+      {
+        "name": "2 star",
+        "count": 2500
+      },
+      {
+        "name": "3 star",
+        "count": 6000
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 25000
+      }
     ]
   },
   {
     "id": 4,
     "title": "Pomocat - Cute Pomodoro Timer",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/vH9Y8M3/pomocat.png",
+    "image": "https://img.icons8.com/fluency/256/cat.png",
     "description": "A cute cat-themed Pomodoro timer to make your study sessions more enjoyable.",
     "size": 18,
     "reviews": 32000,
     "ratingAvg": 4.9,
     "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 100 },
-      { "name": "2 star", "count": 200 },
-      { "name": "3 star", "count": 700 },
-      { "name": "4 star", "count": 5000 },
-      { "name": "5 star", "count": 26000 }
+      {
+        "name": "1 star",
+        "count": 100
+      },
+      {
+        "name": "2 star",
+        "count": 200
+      },
+      {
+        "name": "3 star",
+        "count": 700
+      },
+      {
+        "name": "4 star",
+        "count": 5000
+      },
+      {
+        "name": "5 star",
+        "count": 26000
+      }
     ]
   },
   {
     "id": 5,
     "title": "Time Planner: Schedule & Tasks",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/qR8Xk0z/planner.png",
+    "image": "https://img.icons8.com/fluency/256/calendar.png",
     "description": "Organize your time by categories. Track how much time you spend on hobbies vs work.",
     "size": 22,
     "reviews": 56000,
     "ratingAvg": 4.6,
     "downloads": 2500000,
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1800 },
-      { "name": "3 star", "count": 4000 },
-      { "name": "4 star", "count": 15000 },
-      { "name": "5 star", "count": 34000 }
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 1800
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 34000
+      }
     ]
   },
   {
     "id": 6,
     "title": "Morning Habits - Daily Routine",
     "companyName": "Herojo Studio",
-    "image": "https://i.ibb.co.com/XF8gYyB/habits.png",
+    "image": "https://img.icons8.com/fluency/256/sun.png",
     "description": "Build a winning morning routine. Track your water intake, exercise, and meditation.",
     "size": 30,
     "reviews": 92000,
     "ratingAvg": 4.7,
     "downloads": 4000000,
     "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 25000 },
-      { "name": "5 star", "count": 60000 }
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 60000
+      }
     ]
   },
   {
     "id": 7,
     "title": "Focus Plant: Pomodoro Forest",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/m0S8p9Z/focusplant.png",
+    "image": "https://img.icons8.com/fluency/256/potted-plant.png",
     "description": "Turn your focus time into raindrops to grow magical plants and save the world.",
     "size": 55,
     "reviews": 21000,
     "ratingAvg": 4.4,
     "downloads": 1500000,
     "ratings": [
-      { "name": "1 star", "count": 900 },
-      { "name": "2 star", "count": 1100 },
-      { "name": "3 star", "count": 3000 },
-      { "name": "4 star", "count": 6000 },
-      { "name": "5 star", "count": 10000 }
+      {
+        "name": "1 star",
+        "count": 900
+      },
+      {
+        "name": "2 star",
+        "count": 1100
+      },
+      {
+        "name": "3 star",
+        "count": 3000
+      },
+      {
+        "name": "4 star",
+        "count": 6000
+      },
+      {
+        "name": "5 star",
+        "count": 10000
+      }
     ]
   },
   {
     "id": 8,
     "title": "Alarmy - Alarm Clock & Sleep",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/8rZ0ZpL/alarmy.png",
+    "image": "https://img.icons8.com/fluency/256/alarm-clock.png",
     "description": "The world's most annoying alarm clock. Wake up by solving math problems or taking photos.",
     "size": 38,
     "reviews": 150000,
     "ratingAvg": 4.8,
     "downloads": 10000000,
     "ratings": [
-      { "name": "1 star", "count": 1500 },
-      { "name": "2 star", "count": 1000 },
-      { "name": "3 star", "count": 7500 },
-      { "name": "4 star", "count": 30000 },
-      { "name": "5 star", "count": 110000 }
+      {
+        "name": "1 star",
+        "count": 1500
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 7500
+      },
+      {
+        "name": "4 star",
+        "count": 30000
+      },
+      {
+        "name": "5 star",
+        "count": 110000
+      }
     ]
   },
   {
     "id": 9,
     "title": "Notion: Notes, Docs, Tasks",
     "companyName": "Herojo Studio",
-    "image": "https://i.ibb.co.com/DkvP9S0/notion.png",
+    "image": "https://img.icons8.com/fluency/256/notion.png",
     "description": "A connected workspace where better, faster work happens. Customize your own workflow.",
     "size": 42,
     "reviews": 200000,
     "ratingAvg": 4.6,
     "downloads": 15000000,
     "ratings": [
-      { "name": "1 star", "count": 5000 },
-      { "name": "2 star", "count": 8000 },
-      { "name": "3 star", "count": 20000 },
-      { "name": "4 star", "count": 47000 },
-      { "name": "5 star", "count": 120000 }
+      {
+        "name": "1 star",
+        "count": 5000
+      },
+      {
+        "name": "2 star",
+        "count": 8000
+      },
+      {
+        "name": "3 star",
+        "count": 20000
+      },
+      {
+        "name": "4 star",
+        "count": 47000
+      },
+      {
+        "name": "5 star",
+        "count": 120000
+      }
     ]
   },
   {
     "id": 10,
     "title": "Zen: Sleep & Meditation",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/P4z6YyQ/zen.png",
+    "image": "https://img.icons8.com/fluency/256/lotus.png",
     "description": "Find your inner peace with guided meditations and relaxing sleep sounds.",
     "size": 65,
     "reviews": 35000,
     "ratingAvg": 4.5,
     "downloads": 2000000,
     "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 4500 },
-      { "name": "4 star", "count": 8000 },
-      { "name": "5 star", "count": 20000 }
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 4500
+      },
+      {
+        "name": "4 star",
+        "count": 8000
+      },
+      {
+        "name": "5 star",
+        "count": 20000
+      }
     ]
   },
   {
     "id": 11,
     "title": "TickTick: ToDo & Calendar",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/F4C8hYy/ticktick.png",
+    "image": "https://img.icons8.com/color/256/checked-checkbox.png",
     "description": "Your all-in-one productivity tool. Manage tasks, habits, and your calendar in one place.",
     "size": 25,
     "reviews": 68000,
     "ratingAvg": 4.7,
     "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 1200 },
-      { "name": "2 star", "count": 1800 },
-      { "name": "3 star", "count": 5000 },
-      { "name": "4 star", "count": 15000 },
-      { "name": "5 star", "count": 45000 }
+      {
+        "name": "1 star",
+        "count": 1200
+      },
+      {
+        "name": "2 star",
+        "count": 1800
+      },
+      {
+        "name": "3 star",
+        "count": 5000
+      },
+      {
+        "name": "4 star",
+        "count": 15000
+      },
+      {
+        "name": "5 star",
+        "count": 45000
+      }
     ]
   },
   {
     "id": 12,
     "title": "Sleep Cycle: Smart Alarm",
     "companyName": "Herojo Studio",
-    "image": "https://i.ibb.co.com/L1M8mZZ/sleepcycle.png",
+    "image": "https://img.icons8.com/fluency/256/sleeping-in-bed.png",
     "description": "Analyze your sleep patterns and wake up feeling refreshed during your lightest sleep phase.",
     "size": 32,
     "reviews": 110000,
     "ratingAvg": 4.4,
     "downloads": 8000000,
     "ratings": [
-      { "name": "1 star", "count": 4000 },
-      { "name": "2 star", "count": 6000 },
-      { "name": "3 star", "count": 15000 },
-      { "name": "4 star", "count": 25000 },
-      { "name": "5 star", "count": 60000 }
+      {
+        "name": "1 star",
+        "count": 4000
+      },
+      {
+        "name": "2 star",
+        "count": 6000
+      },
+      {
+        "name": "3 star",
+        "count": 15000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 60000
+      }
     ]
   },
   {
     "id": 13,
     "title": "Evernote: Note Organizer",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/vH9Y8M3/evernote.png",
+    "image": "https://img.icons8.com/fluency/256/evernote.png",
     "description": "Capture your ideas, organize your life. The ultimate digital notebook for all your thoughts and projects.",
     "size": 50,
     "reviews": 180000,
     "ratingAvg": 4.5,
     "downloads": 12000000,
     "ratings": [
-      { "name": "1 star", "count": 3000 },
-      { "name": "2 star", "count": 5000 },
-      { "name": "3 star", "count": 12000 },
-      { "name": "4 star", "count": 40000 },
-      { "name": "5 star", "count": 120000 }
+      {
+        "name": "1 star",
+        "count": 3000
+      },
+      {
+        "name": "2 star",
+        "count": 5000
+      },
+      {
+        "name": "3 star",
+        "count": 12000
+      },
+      {
+        "name": "4 star",
+        "count": 40000
+      },
+      {
+        "name": "5 star",
+        "count": 120000
+      }
     ]
   },
   {
     "id": 14,
     "title": "Trello: Manage Team Projects",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/qR8Xk0z/trello.png",
+    "image": "https://img.icons8.com/color/256/trello.png",
     "description": "Organize anything, together. Trello keeps your team's tasks visible and moving forward.",
     "size": 35,
     "reviews": 95000,
     "ratingAvg": 4.6,
     "downloads": 8000000,
     "ratings": [
-      { "name": "1 star", "count": 2000 },
-      { "name": "2 star", "count": 3000 },
-      { "name": "3 star", "count": 10000 },
-      { "name": "4 star", "count": 25000 },
-      { "name": "5 star", "count": 55000 }
+      {
+        "name": "1 star",
+        "count": 2000
+      },
+      {
+        "name": "2 star",
+        "count": 3000
+      },
+      {
+        "name": "3 star",
+        "count": 10000
+      },
+      {
+        "name": "4 star",
+        "count": 25000
+      },
+      {
+        "name": "5 star",
+        "count": 55000
+      }
     ]
   },
   {
     "id": 15,
     "title": "Habitica: Gamify Your Tasks",
     "companyName": "Herojo Studio",
-    "image": "https://i.ibb.co.com/XF8gYyB/habitica.png",
+    "image": "https://img.icons8.com/fluency/256/sword.png",
     "description": "Treat your life like a game to stay motivated and organized. Level up your habits!",
     "size": 28,
     "reviews": 48000,
     "ratingAvg": 4.8,
     "downloads": 3500000,
     "ratings": [
-      { "name": "1 star", "count": 500 },
-      { "name": "2 star", "count": 1000 },
-      { "name": "3 star", "count": 3500 },
-      { "name": "4 star", "count": 10000 },
-      { "name": "5 star", "count": 33000 }
+      {
+        "name": "1 star",
+        "count": 500
+      },
+      {
+        "name": "2 star",
+        "count": 1000
+      },
+      {
+        "name": "3 star",
+        "count": 3500
+      },
+      {
+        "name": "4 star",
+        "count": 10000
+      },
+      {
+        "name": "5 star",
+        "count": 33000
+      }
     ]
   },
   {
     "id": 16,
     "title": "GoodNotes: Digital Notepad",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/m0S8p9Z/goodnotes.png",
+    "image": "https://img.icons8.com/fluency/256/notepad.png",
     "description": "Take beautiful, searchable handwritten notes. Perfect for students and professionals.",
     "size": 85,
     "reviews": 210000,
     "ratingAvg": 4.9,
     "downloads": 5000000,
     "ratings": [
-      { "name": "1 star", "count": 1000 },
-      { "name": "2 star", "count": 1500 },
-      { "name": "3 star", "count": 4500 },
-      { "name": "4 star", "count": 23000 },
-      { "name": "5 star", "count": 180000 }
+      {
+        "name": "1 star",
+        "count": 1000
+      },
+      {
+        "name": "2 star",
+        "count": 1500
+      },
+      {
+        "name": "3 star",
+        "count": 4500
+      },
+      {
+        "name": "4 star",
+        "count": 23000
+      },
+      {
+        "name": "5 star",
+        "count": 180000
+      }
     ]
   },
   {
     "id": 17,
     "title": "Any.do: To do list & Calendar",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/8rZ0ZpL/anydo.png",
+    "image": "https://img.icons8.com/fluency/256/checkmark.png",
     "description": "A simple and powerful tool to keep your life organized. Syncs seamlessly across all your devices.",
     "size": 33,
     "reviews": 75000,
     "ratingAvg": 4.4,
     "downloads": 6000000,
     "ratings": [
-      { "name": "1 star", "count": 3500 },
-      { "name": "2 star", "count": 4000 },
-      { "name": "3 star", "count": 12500 },
-      { "name": "4 star", "count": 20000 },
-      { "name": "5 star", "count": 35000 }
+      {
+        "name": "1 star",
+        "count": 3500
+      },
+      {
+        "name": "2 star",
+        "count": 4000
+      },
+      {
+        "name": "3 star",
+        "count": 12500
+      },
+      {
+        "name": "4 star",
+        "count": 20000
+      },
+      {
+        "name": "5 star",
+        "count": 35000
+      }
     ]
   },
   {
     "id": 18,
     "title": "MindNode: Mind Map & Outline",
     "companyName": "Herojo Studio",
-    "image": "https://i.ibb.co.com/DkvP9S0/mindnode.png",
+    "image": "https://img.icons8.com/fluency/256/mind-map.png",
     "description": "Brainstorm visually. Capture your thoughts and create connections between ideas effortlessly.",
     "size": 40,
     "reviews": 25000,
     "ratingAvg": 4.7,
     "downloads": 1000000,
     "ratings": [
-      { "name": "1 star", "count": 300 },
-      { "name": "2 star", "count": 500 },
-      { "name": "3 star", "count": 2200 },
-      { "name": "4 star", "count": 7000 },
-      { "name": "5 star", "count": 15000 }
+      {
+        "name": "1 star",
+        "count": 300
+      },
+      {
+        "name": "2 star",
+        "count": 500
+      },
+      {
+        "name": "3 star",
+        "count": 2200
+      },
+      {
+        "name": "4 star",
+        "count": 7000
+      },
+      {
+        "name": "5 star",
+        "count": 15000
+      }
     ]
   },
   {
     "id": 19,
     "title": "Brain Focus: Productivity Timer",
     "companyName": "Herojo Labs",
-    "image": "https://i.ibb.co.com/P4z6YyQ/brainfocus.png",
+    "image": "https://img.icons8.com/fluency/256/brain.png",
     "description": "A time management app that helps you block distracting apps and stay focused on your goals.",
     "size": 15,
     "reviews": 18000,
     "ratingAvg": 4.6,
     "downloads": 800000,
     "ratings": [
-      { "name": "1 star", "count": 400 },
-      { "name": "2 star", "count": 600 },
-      { "name": "3 star", "count": 1500 },
-      { "name": "4 star", "count": 4500 },
-      { "name": "5 star", "count": 11000 }
+      {
+        "name": "1 star",
+        "count": 400
+      },
+      {
+        "name": "2 star",
+        "count": 600
+      },
+      {
+        "name": "3 star",
+        "count": 1500
+      },
+      {
+        "name": "4 star",
+        "count": 4500
+      },
+      {
+        "name": "5 star",
+        "count": 11000
+      }
     ]
   },
   {
     "id": 20,
     "title": "WaterMinder: Water Tracker",
     "companyName": "Herojo Devs",
-    "image": "https://i.ibb.co.com/F4C8hYy/waterminder.png",
+    "image": "https://img.icons8.com/fluency/256/bottle-of-water.png",
     "description": "Keep track of your daily water intake. An essential app for your daily health and hydration routine.",
     "size": 20,
     "reviews": 60000,
     "ratingAvg": 4.8,
     "downloads": 4000000,
     "ratings": [
-      { "name": "1 star", "count": 800 },
-      { "name": "2 star", "count": 1200 },
-      { "name": "3 star", "count": 4000 },
-      { "name": "4 star", "count": 14000 },
-      { "name": "5 star", "count": 40000 }
+      {
+        "name": "1 star",
+        "count": 800
+      },
+      {
+        "name": "2 star",
+        "count": 1200
+      },
+      {
+        "name": "3 star",
+        "count": 4000
+      },
+      {
+        "name": "4 star",
+        "count": 14000
+      },
+      {
+        "name": "5 star",
+        "count": 40000
+      }
     ]
   }
 ]

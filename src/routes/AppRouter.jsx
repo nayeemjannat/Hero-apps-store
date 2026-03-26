@@ -33,7 +33,7 @@ const AppRouter = createBrowserRouter([
       },
       {
         path: "/installation",
-        element: <div className="text-center py-20 text-2xl font-bold">Installation Guide (Coming Soon...)</div>,
+        element: <div className="text-center py-20 text-2xl font-bold">Installation</div>,
         loader: navigationLoader,
       }
     ],

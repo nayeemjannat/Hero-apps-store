@@ -4,8 +4,9 @@ import appsData from "../../data/appsData.json";
 import { BarChart, Bar, XAxis, YAxis, Tooltip, ResponsiveContainer } from "recharts";
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
-import { FaDownload, FaStar, FaCommentDots } from "react-icons/fa";
-
+import downloads from "../../assets/icon-downloads.png"
+import rating from "../../assets/icon-ratings.png"
+import review from "../../assets/icon-review.png"
 const AppDetails = () => {
   const { id } = useParams();
   const app = appsData.find((app) => app.id === parseInt(id));
@@ -61,19 +62,19 @@ const AppDetails = () => {
             {/* Stats Row */}
             <div className="flex flex-wrap justify-center md:justify-start gap-8 mb-8 w-full">
               <div className="flex flex-col items-center md:items-start">
-                <FaDownload className="text-green-500 text-xl mb-2" />
+                <img src={downloads} alt="downloads" className="text-green-500 text-xl mb-2" />
                 <span className="text-gray-500 text-sm">Downloads</span>
                 <span className="text-2xl font-bold text-gray-900">
                   {app.downloads >= 1000000 ? `${app.downloads / 1000000}M` : `${app.downloads / 1000}K`}
                 </span>
               </div>
               <div className="flex flex-col items-center md:items-start">
-                <FaStar className="text-orange-400 text-xl mb-2" />
+                <img src={rating} alt="rating" className="text-orange-400 text-xl mb-2" />
                 <span className="text-gray-500 text-sm">Average Ratings</span>
                 <span className="text-2xl font-bold text-gray-900">{app.ratingAvg}</span>
               </div>
               <div className="flex flex-col items-center md:items-start">
-                <FaCommentDots className="text-[#8B5CF6] text-xl mb-2" />
+                <img src={review} alt="review" className="text-[#8B5CF6] text-xl mb-2" />
                 <span className="text-gray-500 text-sm">Total Reviews</span>
                 <span className="text-2xl font-bold text-gray-900">
                   {app.reviews >= 1000 ? `${app.reviews / 1000}K` : app.reviews}
@@ -86,8 +87,8 @@ const AppDetails = () => {
               onClick={handleInstall}
               disabled={isInstalled}
               className={`px-8 py-3 rounded-md font-medium text-white transition-colors duration-300 w-full md:w-auto ${isInstalled
-                  ? "bg-gray-400 cursor-not-allowed"
-                  : "bg-[#00D99A] hover:bg-[#00B983]"
+                ? "bg-gray-400 cursor-not-allowed"
+                : "bg-[#00D99A] hover:bg-[#00B983]"
                 }`}
             >
               {isInstalled ? "Installed" : `Install Now (${app.size} MB)`}
